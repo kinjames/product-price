@@ -101,6 +101,10 @@ main{
     background-color: hsl(158, 36%, 17%);
 }
 
+.mob {
+    display: none;
+}
+
 .attribution { 
     font-size: 11px; 
     text-align: center; 
@@ -117,6 +121,10 @@ main{
         width: 100%;
     }
 
+    
+    main {
+        margin-top: 80px;
+    }
     .container{
         flex-direction: column;
     }
@@ -133,6 +141,14 @@ main{
         height: 100%;
         border-radius: 0 0 10px 10px;
     
+    }
+
+    .wind {
+        display: none;
+    }
+
+    .mob {
+        display: block;
     }
 
 
