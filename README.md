@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-4M3yZ0OoC5)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-SaFUQo07Mm)
 - Live Site URL: [Github](https://kinjames.github.io/product-price/)
 
 ## My process
