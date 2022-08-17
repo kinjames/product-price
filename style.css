@@ -125,12 +125,9 @@ main{
     main {
         margin-top: 80px;
     }
-    /* .container{
+    .container{
         flex-direction: column;
-        box-shadow: -1px 4px 5px 0px rgba(0,0,0,0.75);
-        -webkit-box-shadow: -1px 4px 5px 0px rgba(0,0,0,0.75);
-        -moz-box-shadow: -1px 4px 5px 0px rgba(0,0,0,0.75);
-    } */
+    }
 
     .image img {
         width: 100%;
